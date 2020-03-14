@@ -2,29 +2,29 @@
 
 How to compile:
 
-  make clean
+    make clean
 
-  make
+    make
 
 Create .mil files
 
-  make test
+    make test
 
 Execute test
 
-  ./mil_run ./milFiles/_testname.mil
+    ./mil_run ./milFiles/_testname.mil
 
 example:
 
-  make clean
+    make clean
 
-  make
-  
-  make test
-  
-  ./mil_run ./milFiles/_primes.mil
-  
-  
+    make
+
+    make test
+
+    ./mil_run ./milFiles/_primes.mil
+
+
 Input.txt has been initialized with 5
 
 For loop is not completed
