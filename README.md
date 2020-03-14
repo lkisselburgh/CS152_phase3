@@ -2,19 +2,26 @@
 
 How to compile:
 
-make clean
-make
+  make clean
+
+  make
 
 Create .mil files
-make test
+
+  make test
 
 Execute test
-./mil_run ./milFiles/_testname.mil
+
+  ./mil_run ./milFiles/_testname.mil
 
 example:
+
   make clean
+
   make
+  
   make test
+  
   ./mil_run ./milFiles/_primes.mil
   
   
